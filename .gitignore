@@ -63,7 +63,7 @@ docs/_book
 test/
 
 .DS_STORE
-node_modules/
+node_modules/*
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
